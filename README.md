@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Michał Tomaszewski</h1>
 <h3 align="center">Frontend developer in Enigma SOI.</h3>
 
-- 🌱 I’m currently learning **more about Typescript and React, next is Next and maybe Angular.**
+- 🌱 I’m currently learning **more about Typescript and React, Next is next and maybe Angular.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
